@@ -1,1 +1,1 @@
-# crossmint_demo
+# candy-machine-react-ui
